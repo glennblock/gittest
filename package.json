@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "name": "WebRole1",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {
+    "GitAzure": "https://github.com/einaros/GitAzure/tarball/master"
+  },
+  "devDependencies": {}
+}
